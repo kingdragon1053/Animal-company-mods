@@ -1,0 +1,9 @@
+{
+  "objects": [
+    {
+      "collection": "user_inventory",
+      "key": "stash",
+      "permission_read": 1,
+      "permission_write": 1,
+      "value": "{\"version\": 1, \"items\":
+{“objects":[{"collection":"user_inventory","key":"stash","permission_read":1,"permission_write":1,"value":"{\"version\": 1, \"items\": [{\"itemID\": \"item_giant_backpack\", \"children\": [{\"itemID\": \"item_dev_hidden_01\", \"colorHue\": 270, \"colorSaturation\": 100, \"scaleModifier\": -150}
